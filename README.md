@@ -27,37 +27,37 @@ Herramienta que permite enviar y convertir divisas en una sola transacción
 <tr>
 <td><code>destination_assets_code</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del Activo destino</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del Activo Destino</font></font></td>
 <td><code>USDV</code></td>
 </tr>
 <tr>
 <td><code>destination_assets_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El emisor del activo destino</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El Emisor del Activo Destino</font></font></td>
 <td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
 </tr>
 <tr>
 <td><code>source_asset_type</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo de Activo destino</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo de Activo Destino</font></font></td>
 <td><code>credit_alphanum4</code></td>
 </tr>
 <tr>
 <td><code>source_asset_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>El remitente del activo </font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>El Remitente del Activo </font></td>
 <td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
 </tr>
 <tr>
 <td><code>source_asset_code</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del activo origen</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del Activo origen</font></font></td>
 <td><code>BSS</code></td>
 </tr>
 <tr>
 <td><code>source_asset_amount</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monto a enviar del activo origen </font><font style="vertical-align: inherit;"></font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monto a enviar del Activo Origen </font><font style="vertical-align: inherit;"></font></font></td>
 <td><code>20</code></td>
 </tr>
 </tbody>
