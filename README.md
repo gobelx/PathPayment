@@ -28,37 +28,37 @@ Herramienta que cumple con la funcion de enviar y convertir divisas en una sola 
 <td><code>destination_assets_code</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del Activo Destino</font></font></td>
-<td><code>USDV</code></td>
+<td><code>USDT</code></td>
 </tr>
 <tr>
 <td><code>destination_assets_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cuenta del emisor del Activo Destino</font></font></td>
-<td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
+<td><code>GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V</code></td>
 </tr>
 <tr>
 <td><code>source_asset_type</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tipo de Activo Destino</font></font></td>
-<td><code>credit_alphanum4</code></td>
+<td><code>native</code></td>
 </tr>
 <tr>
 <td><code>source_asset_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>Cuenta del Remitente del Activo Origen </font></td>
-<td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
+<td><code></code></td>
 </tr>
 <tr>
 <td><code>source_asset_code</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codigo del Activo origen</font></font></td>
-<td><code>BSS</code></td>
+<td><code>XLM</code></td>
 </tr>
 <tr>
 <td><code>source_asset_amount</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monto a enviar del Activo Origen </font><font style="vertical-align: inherit;"></font></font></td>
-<td><code>20</code></td>
+<td><code>0.000001</code></td>
 </tr>
 </tbody>
 </table>
