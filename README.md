@@ -46,7 +46,7 @@ Herramienta que cumple con la funcion de enviar y convertir divisas en una sola 
 <td><code>source_asset_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>Cuenta del Remitente del Activo Origen </font></td>
-<td><code></code></td>
+<td><code>-----</code></td>
 </tr>
 <tr>
 <td><code>source_asset_code</code></td>
