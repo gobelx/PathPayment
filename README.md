@@ -2,7 +2,7 @@
 
 
 
-Herramienta que permite enviar y convertir divisas en una sola transacción
+Herramienta que cumple con la funcion de enviar y convertir divisas en una sola transacción permitiendo realizar pagos transfronterizos.
 
 
 
