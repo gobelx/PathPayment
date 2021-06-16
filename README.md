@@ -67,20 +67,17 @@ Herramienta que cumple con la funcion de enviar y convertir divisas en una sola 
 <h2>Respuesta</h2>
 
 <pre class="cm-s-monokai CodeMirror codeBlock codeBlock--syntaxHighlight"><code class="language-json">{
-        <span class="cm-string">"destination_amount"</span>: <span class="cm-string">"20.0000000"</span>,
-        <span class="cm-string">"destination_asset_code"</span>: <span class="cm-string">"EUR"</span>,
-        <span class="cm-string">"destination_asset_issuer"</span>: <span class="cm-string">"GDSBCQO34HWPGUGQSP3QBFEXVTSR2PW46UIGTHVWGWJGQKH3AFNHXHXN"</span>,
-        <span class="cm-string">"destination_asset_type"</span>: <span class="cm-string">"credit_alphanum4"</span>,
-        <span class="cm-string">"path"</span>: [
+        <span class="cm-string">"success"</span>: <span class="cm-string">true</span>,
+        <span class="cm-string">"path"</span>: <span class="cm-string">"XLM => CENTUS => LINK => USDT"</span>,
+        <span class="cm-string">"amountRute"</span>: <span class="cm-string">"0.0000023"</span>,
+                <span class="cm-string">"path"</span>: [
                 {
-                        <span class="cm-string cm-property">"asset_code"</span>: <span class="cm-string">"1"</span>,
-                        <span class="cm-string cm-property">"asset_issuer"</span>: <span class="cm-string">"GDSBCQO34HWPGUGQSP3QBFEXVTSR2PW46UIGTHVWGWJGQKH3AFNHXHXN"</span>,
-                        <span class="cm-string cm-property">"asset_type"</span>: <span class="cm-string">"credit_alphanum4"</span>
-                }
+                        <span class="cm-string cm-property">"code"</span>: <span class="cm-string">"CENTUS"</span>,
+                        <span class="cm-string cm-property">"issuer"</span>: <span class="cm-string">"GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ"</span>,
+                                        }
         ],
-        <span class="cm-string">"source_amount"</span>: <span class="cm-string">"20.0000000"</span>,
-        <span class="cm-string">"source_asset_code"</span>: <span class="cm-string">"USD"</span>,
-        <span class="cm-string">"source_asset_issuer"</span>: <span class="cm-string">"GDSBCQO34HWPGUGQSP3QBFEXVTSR2PW46UIGTHVWGWJGQKH3AFNHXHXN"</span>,
-        <span class="cm-string">"source_asset_type"</span>: <span class="cm-string">"credit_alphanum4"</span>
+        <span class="cm-string">"code"</span>: <span class="cm-string">"LINK"</span>,
+        <span class="cm-string">"issuer"</span>: <span class="cm-string">"GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR"</span>,
+                
 }
 </code></pre>
