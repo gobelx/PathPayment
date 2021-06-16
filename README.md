@@ -57,8 +57,8 @@ Herramienta que permite enviar y convertir divisas en una sola transacción
 <tr>
 <td><code>source_asset_amount</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monto a enviar del activo origen </font><font style="vertical-align: inherit;">20BSS</font></font></td>
-<td><code>GARSFJNXJIHO6ULUBK3DBYKVSIZE7SC72S5DYBCHU7DKL22UXKVD7MXP</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Monto a enviar del activo origen </font><font style="vertical-align: inherit;"></font></font></td>
+<td><code>20BSS</code></td>
 </tr>
 </tbody>
 </table>
