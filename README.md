@@ -33,7 +33,7 @@ Herramienta que cumple con la funcion de enviar y convertir divisas en una sola 
 <tr>
 <td><code>destination_assets_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">El Emisor del Activo Destino</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cuenta del emisor del Activo Destino</font></font></td>
 <td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ Herramienta que cumple con la funcion de enviar y convertir divisas en una sola 
 <tr>
 <td><code>source_asset_issuer</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>El Remitente del Activo </font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font>Cuenta del Remitente del Activo Origen </font></td>
 <td><code>GA6E6YDYXXAXG4VZAOGIX3N3HETLMGVBLQKAAIZQ3PIMQGHAQ63RA6EO</code></td>
 </tr>
 <tr>
