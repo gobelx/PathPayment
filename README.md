@@ -2,4 +2,4 @@
 
 
 
-<b>Cristian</b>
+Herramienta que permite enviar y convertir divisas en una sola transacción
