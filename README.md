@@ -81,3 +81,6 @@ Tool that fulfills the function of sending and converting currencies in a single
                 
 }
 </code></pre>
+
+
+<h2>User Guide</h2>
