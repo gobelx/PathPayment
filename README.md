@@ -107,6 +107,6 @@ Step 5: Enter a Memo (Optional)
   
 Step 6: Confirm Payment details
   
-  <img src="" alt="Girl in a jacket" width="500" height="600">
+  <img src="https://gitlab.com/papayagroup20/prontopago/-/blob/master/main/static/img/doc/doc-1.jpg" alt="Girl in a jacket" width="500" height="600">
   
  We can see how the API has chosen the most optimized route to achieve the exchange 
