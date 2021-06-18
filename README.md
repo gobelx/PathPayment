@@ -89,7 +89,7 @@ Tool that fulfills the function of sending and converting currencies in a single
 
 Step 1: Enter the Recipient's Wallet
 
- <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="250" height="250">
+ <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="250" height="300">
  
 Step 2: Select the Source Asset
  
