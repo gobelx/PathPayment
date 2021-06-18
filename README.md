@@ -73,8 +73,9 @@ Tool that fulfills the function of sending and converting currencies in a single
                 <span class="cm-string">"path"</span>: [
                 {
                         <span class="cm-string cm-property">"code"</span>: <span class="cm-string">"CENTUS"</span>,
-                        <span class="cm-string cm-property">"issuer"</span>: <span class="cm-string">"GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ"</span> },
-                                        {
+                        <span class="cm-string cm-property">"issuer"</span>: <span class="cm-string">"GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ"</span> 
+                        },
+                        {
                 <span class="cm-string">"code"</span>: <span class="cm-string">"LINK"</span>,
         <span class="cm-string">"issuer"</span>: <span class="cm-string">"GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR"</span>,
                 
