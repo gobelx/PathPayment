@@ -1,4 +1,4 @@
-# PathPayment
+# PathPayment (JavaScript)
 
 
 
