@@ -89,24 +89,24 @@ Tool that fulfills the function of sending and converting currencies in a single
 
 Step 1: Enter the Recipient's Wallet
 
- <img src="" alt="Girl in a jacket" width="500" height="600">
+ 
  
 Step 2: Select the Source Asset
  
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
   
 Step 3: Enter the Amount of the Origin Asset, in this case we will use XLM
   
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
   
 Step 4: Select the Destination Asset, in this case we will use BRL
   
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
   
 Step 5: Enter a Memo (Optional) 
   
 Step 6: Confirm Payment details
   
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  <img src="https://prontopagos.io/static/img/logoppg1.png" alt="Girl in a jacket" width="500" height="600">
   
  We can see how the API has chosen the most optimized route to achieve the exchange 
