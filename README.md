@@ -101,7 +101,7 @@ Step 3: Enter the Amount of the Origin Asset, in this case we will use XLM
   
 Step 4: Select the Destination Asset, in this case we will use BRL
   
-  <img src="" alt="" width="500" height="600">
+  <img src=""  width="500" height="600">
   
 Step 5: Enter a Memo (Optional) 
   
