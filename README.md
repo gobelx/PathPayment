@@ -109,7 +109,7 @@ Step 5: Enter a Memo (Optional)
   
 Step 6: Confirm Payment details
 
-  <img src="https://prontopagos.io/static/img/doc/doc-6.jpg"  alt="" width="400" height="250">
+  <img src="https://prontopagos.io/static/img/doc/doc-5.jpg"  alt="" width="400" height="250">
 
   
  We can see how the API has chosen the most optimized route to achieve the exchange 
