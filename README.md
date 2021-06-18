@@ -101,12 +101,12 @@ Step 3: Enter the Amount of the Origin Asset, in this case we will use XLM
   
 Step 4: Select the Destination Asset, in this case we will use BRL
   
-  <img src="https://gitlab.com/papayagroup20/prontopago/-/blob/master/main/static/img/doc/doc-1.jpg" alt="Girl in a jacket" width="500" height="600">
+  <img src="" alt="" width="500" height="600">
   
 Step 5: Enter a Memo (Optional) 
   
 Step 6: Confirm Payment details
   
-  <img src="https://gitlab.com/papayagroup20/prontopago/-/raw/master/main/static/img/doc/doc-1.jpg"  width="500" height="600">
+  <img src=""  width="500" height="600">
   
  We can see how the API has chosen the most optimized route to achieve the exchange 
