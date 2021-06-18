@@ -86,3 +86,27 @@ Tool that fulfills the function of sending and converting currencies in a single
 
 
 <h2>User Guide</h2>
+
+Paso 1: Ingresar la Billetera del Destinatario
+
+ <img src="" alt="Girl in a jacket" width="500" height="600">
+ 
+ Paso 2: Seleccionar el Activo de Origen
+ 
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
+  Paso 3: Ingresar el Monto del Activo de Origen, en este caso usaremos XLM
+  
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
+  Paso 4: Seleccionar el Activo de Destino, en este caso usaremos BRL
+  
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
+  Paso 5: Ingresar un Memo (Opcional) 
+  
+  Paso 6: Confirmar los detalles del Pago
+  
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  
+  Podemos visualizar como la API ha escogido la ruta mas optimizada para lograr el intercambio 
