@@ -93,20 +93,20 @@ Step 1: Enter the Recipient's Wallet
  
 Step 2: Select the Source Asset
  
-  
+   <img src="https://prontopagos.io/static/img/doc/doc-2.jpg"  alt="" width="400" height="250">
   
 Step 3: Enter the Amount of the Origin Asset, in this case we will use XLM
-  
+  <img src="https://prontopagos.io/static/img/doc/doc-3.jpg"  alt="" width="400" height="250">
   
   
 Step 4: Select the Destination Asset, in this case we will use BRL
-  
+  <img src="https://prontopagos.io/static/img/doc/doc-4.jpg"  alt="" width="400" height="250">
 
   
 Step 5: Enter a Memo (Optional) 
   
 Step 6: Confirm Payment details
-  
+  <img src="https://prontopagos.io/static/img/doc/doc-6.jpg"  alt="" width="400" height="250">
 
   
  We can see how the API has chosen the most optimized route to achieve the exchange 
