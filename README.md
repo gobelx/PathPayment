@@ -89,15 +89,15 @@ Tool that fulfills the function of sending and converting currencies in a single
 
 Step 1: Enter the Recipient's Wallet
 
- <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="400" height="500">
+ <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="500" height="250">
  
 Step 2: Select the Source Asset
  
-   <img src="https://prontopagos.io/static/img/doc/doc-2.jpg"  alt="" width="400" height="350">
+   <img src="https://prontopagos.io/static/img/doc/doc-2.jpg"  alt="" width="500" height="250">
   
 Step 3: Enter the Amount of the Origin Asset, in this case we will use XLM
 
-  <img src="https://prontopagos.io/static/img/doc/doc-3.jpg"  alt="" width="400" height="250">
+  <img src="https://prontopagos.io/static/img/doc/doc-3.jpg"  alt="" width="500" height="250">
   
   
 Step 4: Select the Destination Asset, in this case we will use BRL
