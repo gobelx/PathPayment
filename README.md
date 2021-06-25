@@ -164,7 +164,7 @@ Tool that fulfills the function of sending and converting currencies in a single
         "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
                 
          }
-     ]</code></td>
+     ] </code></td>
    
         </tr>
         <tr>
