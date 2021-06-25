@@ -201,7 +201,7 @@ Tool that fulfills the function of sending and converting currencies in a single
 
 Step 1: Enter the Recipient's Wallet
 
- <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="400" height="450">
+ <img src="https://prontopagos.io/static/img/doc/doc-1.jpg"  alt="" width="500" height="300">
  
  
  <hr>
