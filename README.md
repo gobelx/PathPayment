@@ -165,16 +165,14 @@ Tool that fulfills the function of sending and converting currencies in a single
                 
          }
      ] </code></td>
-   
-        </tr>
-        <tr>
+  </tr>
+<tr>
 <td><code>memo_type</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memo Type</font></font></td>
 <td><code>--------</code></td>
-   </tr>
-        </tr>
-        <tr>
+</tr>
+<tr>
 <td><code>memo</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoradum</font></font></td>
