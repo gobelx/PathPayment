@@ -148,38 +148,52 @@ Tool that fulfills the function of sending and converting currencies in a single
 <td><code>amountRute</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Route Amount</font></font></td>
-<td><code>4</code></td>
+<td><code>0.0000023</code></td>
    </tr>    
 <tr>
-<td><code>amountRute</code></td>
+<td><code>path</code></td>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Route Amount</font></font></td>
-<td><code>4</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Route</font></font></td>
+<td><code>[
+                {
+                        "code": "CENTUS",
+                        "issuer": "GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ" 
+                        },
+                        {
+                "code": "LINK",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+                
+         }
+     ]</code></td>
+   
+        </tr>
+        <tr>
+<td><code>memo_type</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memo Type</font></font></td>
+<td><code>--------</code></td>
+   </tr>
+        </tr>
+        <tr>
+<td><code>memo</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Memoradum</font></font></td>
+<td><code>--------</code></td>
+   </tr>
+    <tr>
+<td><code>comision_op</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"Transaction Commission</font></font></td>
+<td><code>0.1</code></td>
+   </tr>
+   <tr>
+<td><code>llave_privada</code></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">String</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"Private Key</font></font></td>
+<td><code>GAKMVPHBET2T7DPN32ODVSI9AA6YEZX2GHGNNSBGFNRQ6QEVKFO4CEGV</code></td>
    </tr>
 </tbody>
 </table>
-
-
-<h2>Answer</h2>
-
-<pre class="cm-s-monokai CodeMirror codeBlock codeBlock--syntaxHighlight"><code class="language-json">{
-        <span class="cm-string">"success"</span>: <span class="cm-string">true</span>,
-        <span class="cm-string">"path"</span>: <span class="cm-string">"XLM => CENTUS => LINK => USDT"</span>,
-        <span class="cm-string">"amountRute"</span>: <span class="cm-string">"0.0000023"</span>,
-                <span class="cm-string">"path"</span>: [
-                {
-                        <span class="cm-string cm-property">"code"</span>: <span class="cm-string">"CENTUS"</span>,
-                        <span class="cm-string cm-property">"issuer"</span>: <span class="cm-string">"GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ"</span> 
-                        },
-                        {
-                <span class="cm-string">"code"</span>: <span class="cm-string">"LINK"</span>,
-        <span class="cm-string">"issuer"</span>: <span class="cm-string">"GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR"</span>,
-                
-         }
-     ]
-}
-</code></pre>
-
 
 
 
