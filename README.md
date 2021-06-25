@@ -165,7 +165,7 @@ Tool that fulfills the function of sending and converting currencies in a single
                 
          }
      ]
-    </code></td>
+    
   </tr>
 <tr>
 <td><code>memo_type</code></td>
