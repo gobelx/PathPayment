@@ -84,7 +84,7 @@ Tool that fulfills the function of sending and converting currencies in a single
 }
 </code></pre>
 
-<h1>Use</h1>
+<h2>Use</h2>
 
 
 <pre><code>POST pathpayment.gobelx.io/api/ruta-path-operation</code></pre>
