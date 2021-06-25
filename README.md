@@ -208,7 +208,7 @@ Step 1: Enter the Recipient's Wallet
  
 Step 2: Select the Source Asset
  
-   <img src="https://prontopagos.io/static/img/doc/doc-2.jpg"  alt="" width="500" height="250">
+   <img src="https://prontopagos.io/static/img/doc/doc-2.jpg"  alt="" width="600" height="250">
  
  <hr>
  
